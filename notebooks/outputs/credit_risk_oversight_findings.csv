@@ -1,0 +1,6 @@
+Finding,Evidence,Risk_Implication,Recommended_Action
+Elevated delinquency risk,Customers with 2+ months delay have a 69.55% default rate,Concentration of defaults among delinquent customers,Prioritise delinquent accounts for review
+High-risk exception population,Flagged portfolio default rate is 38.27% vs 16.06% for non-flagged,Exception rules identify a higher-risk population,Review flagged accounts and validate exception thresholds
+Model dependence on repayment status,PAY_0 has the largest individual absolute model coefficient,Model may rely heavily on already-visible delinquency,Test additional behavioural and payment trend features
+Missed defaults without positive delay,657 missed defaults belong to the no-positive-delay group,Potential blind spot in identifying emerging risk,Investigate alternative early-warning indicators
+Uneven model recall across credit-limit segments,Recall is 28.8% for 200K+ vs 58.3% below 50K,Model performance varies across portfolio segments,Conduct segment-level validation and investigate drivers

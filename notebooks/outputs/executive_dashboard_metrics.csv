@@ -1,0 +1,15 @@
+Metric,Value,Monitoring_Category
+Total Customers,30000.0,Portfolio Size
+Total Assigned Credit Limits,5024529680.0,Portfolio Exposure Proxy
+Average Credit Limit,167484.32,Portfolio Profile
+Overall Default Rate (%),22.12,Portfolio KRI
+Customers with 2+ Months Delay (%),10.43,Delinquency KRI
+Default Rate in 2+ Months Delay Group (%),69.55,Delinquency KRI
+Flagged Customers,8182.0,Exception Monitoring
+Flagged Portfolio Share (%),27.27,Exception Monitoring
+Flagged Portfolio Default Rate (%),38.27,Exception Monitoring
+Non-Flagged Default Rate (%),16.06,Exception Monitoring
+Model ROC-AUC,0.728,Model Monitoring
+Model Precision,0.51,Model Monitoring
+Model Recall,0.48,Model Monitoring
+High Credit Limit Segment Recall (%),28.8,Segment Validation
